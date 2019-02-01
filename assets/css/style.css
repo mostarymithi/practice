@@ -1,0 +1,63 @@
+.parallax {
+    /* The image used */
+    background-image: url("../img/m.jpg");
+
+    /* Set a specific height */
+    min-height: 86px;
+
+     Create the parallax scrolling effect 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+
+
+ /* arrow css*/
+       
+        #scrollToTop, #scrollToBottom
+        {
+             cursor:pointer;
+             background-color:red;
+             display:inline-block;
+             height:40px;
+             width:40px;
+             color:#fff;
+             font-size:16pt;
+             text-align:center;
+             text-decoration:none;
+             line-height:40px;
+        }
+/* arrow css end*/
+
+
+
+
+
+
+
+
+
+
+
+
+/*scroll css*/
+
+body {
+    position: relative; 
+  }
+  #section1 {padding-top:50px;height:500px;color: #fff; background-color: #1E88E5;}
+  #section2 {padding-top:50px;height:500px;color: #fff; background-color: #673ab7;}
+  #section3 {padding-top:50px;height:500px;color: #fff; background-color: #ff9800;}
+  #section41 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;}
+  #section42 {padding-top:50px;height:500px;color: #fff; background-color: #009688;}
+
+/*scroll css end*/
+
+
+
+
+
+
+ 
